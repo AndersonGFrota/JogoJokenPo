@@ -15,7 +15,6 @@ A aplicação consiste em um jogo Pedra, papel e tesoura, também chamado em alg
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/AndersonGFrota/JogoJokenPo/blob/main/Jokenpo.png)
 
-https://github.com/AndersonGFrota/JogoJokenPo/blob/main/Jokenpo.png
 
 # Tecnologias utilizadas
 
